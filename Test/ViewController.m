@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     //i`m add una linea nueva
     //otra linea
+    //linea mas otra mas
 }
 
 - (void)didReceiveMemoryWarning
