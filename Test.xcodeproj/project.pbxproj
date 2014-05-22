@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3817F5BA192E455C0007FCF7 /* bee.png in Resources */ = {isa = PBXBuildFile; fileRef = 3817F5B9192E455C0007FCF7 /* bee.png */; };
 		385F5CDE192D197B00FE9161 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385F5CDD192D197B00FE9161 /* Foundation.framework */; };
 		385F5CE0192D197B00FE9161 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385F5CDF192D197B00FE9161 /* CoreGraphics.framework */; };
 		385F5CE2192D197B00FE9161 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385F5CE1192D197B00FE9161 /* UIKit.framework */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3817F5B9192E455C0007FCF7 /* bee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bee.png; sourceTree = "<group>"; };
 		385F5CDA192D197B00FE9161 /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		385F5CDD192D197B00FE9161 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		385F5CDF192D197B00FE9161 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -114,6 +116,7 @@
 		385F5CE3192D197B00FE9161 /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				3817F5B9192E455C0007FCF7 /* bee.png */,
 				385F5CEC192D197B00FE9161 /* AppDelegate.h */,
 				385F5CED192D197B00FE9161 /* AppDelegate.m */,
 				385F5CEF192D197B00FE9161 /* Main_iPhone.storyboard */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				385F5CF4192D197B00FE9161 /* Main_iPad.storyboard in Resources */,
+				3817F5BA192E455C0007FCF7 /* bee.png in Resources */,
 				385F5CF9192D197B00FE9161 /* Images.xcassets in Resources */,
 				385F5CF1192D197B00FE9161 /* Main_iPhone.storyboard in Resources */,
 				385F5CE8192D197B00FE9161 /* InfoPlist.strings in Resources */,
@@ -470,6 +474,7 @@
 				385F5D11192D197B00FE9161 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		385F5D12192D197B00FE9161 /* Build configuration list for PBXNativeTarget "TestTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +483,7 @@
 				385F5D14192D197B00FE9161 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

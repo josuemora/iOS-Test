@@ -29,4 +29,11 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)abejaboton:(id)sender {
+    UIAlertView *Alert = [[UIAlertView alloc] initWithTitle:nil message:@"Hola Mundo" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
+    [Alert show];
+    
+    NSLog(@"Hola Mundo");
+    
+}
 @end
