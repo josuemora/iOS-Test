@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>E50E6634-8B2F-468F-B060-F8900A740770</string>
+	<string>56D3A001-4CA9-4417-98DB-A86A0B43357A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Test</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>89FB9263-ECBE-44F9-975F-1E22B242E5DD</key>
-		<string>https://github.com/josuemora/iOS-Test</string>
+		<key>9B18560A-5F7A-4620-A5AC-41C9D5BBD1D6</key>
+		<string>ssh://github.com/josuemora/iOS-Test.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Test.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>89FB9263-ECBE-44F9-975F-1E22B242E5DD</key>
+		<key>9B18560A-5F7A-4620-A5AC-41C9D5BBD1D6</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/josuemora/iOS-Test</string>
+	<string>ssh://github.com/josuemora/iOS-Test.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>89FB9263-ECBE-44F9-975F-1E22B242E5DD</string>
+	<string>9B18560A-5F7A-4620-A5AC-41C9D5BBD1D6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>89FB9263-ECBE-44F9-975F-1E22B242E5DD</string>
+			<string>9B18560A-5F7A-4620-A5AC-41C9D5BBD1D6</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iOS-Test</string>
 		</dict>

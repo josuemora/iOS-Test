@@ -33,7 +33,7 @@
     UIAlertView *Alert = [[UIAlertView alloc] initWithTitle:nil message:@"Hola Mundo, cambio1	" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
     [Alert show];
     
-    NSLog(@"Hola Mundo, cambio1");
+    NSLog(@"Hola Mundo, cambio2.....");
     
 }
 @end
